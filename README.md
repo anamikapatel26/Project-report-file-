@@ -60,8 +60,6 @@ Determining optimal number of clusters using the elbow method
 
 Scatter plots and 3D visualizations to show cluster separation
 
-Dashboard screenshot included in the repository
-
 
 
 
